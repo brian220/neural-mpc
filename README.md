@@ -9,4 +9,7 @@ We also provide a requirement.txt, hope this can help you if you want to run thi
 To run the code in the CPU mode, 'pip intall -r requirement.txt', and please use the python version <= 3.6. (we use 3.6)<br />
 To run the code in the GPU mode, you need to install CUDA 8.0 and cudnn 6.0 <br />
 
+Some results we get: <br />
+
+
 
