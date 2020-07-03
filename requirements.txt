@@ -1,0 +1,4 @@
+tensorflow==1.4.0
+mujoco_py==0.5.7
+numpy>=1.11
+gym==0.9.4
