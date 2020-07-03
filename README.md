@@ -11,10 +11,10 @@ To run the code in the GPU mode, you need to install CUDA 8.0 and cudnn 6.0 <br 
 
 Some results we get: <br />
 
-![image] (https://github.com/brian220/neural-mpc/blob/master/images/objective.png)
+![image](https://github.com/brian220/neural-mpc/blob/master/images/objective.png)
 
 
-![image] https://github.com/brian220/neural-mpc/blob/master/images/Aggregation.png
+![image](https://github.com/brian220/neural-mpc/blob/master/images/Aggregation.png)
 
 
 
