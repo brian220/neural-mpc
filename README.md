@@ -19,5 +19,7 @@ Some results we get: <br />
 
 ![image](https://github.com/brian220/neural-mpc/blob/master/images/Aggregation.png)
 
+![image](https://github.com/brian220/neural-mpc/blob/master/images/ep_length.png)
+
 
 
